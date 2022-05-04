@@ -1,0 +1,14 @@
+.logo {
+  background: url('assets/img/logo.png') center no-repeat;
+  width: 296px;
+  height: 84px;
+  text-indent: 101%;
+  background-size: contain;
+}
+
+.user-photo {
+  &-sm {
+    height: 45px;
+    width: 45px;
+  }
+}
